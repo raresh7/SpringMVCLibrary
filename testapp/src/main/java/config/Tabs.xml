@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabs>
+	<tab>
+		<url>userinfo</url>
+		<label>User Details</label>
+		<rank>5</rank>
+		<forAdmin>false</forAdmin>
+		<accessLevel>0</accessLevel>
+	</tab>
+	<tab>
+		<url>borrowed?all=true</url>
+		<label>My Books</label>
+		<rank>10</rank>
+		<forAdmin>false</forAdmin>
+		<accessLevel>0</accessLevel>
+	</tab>
+		<tab>
+		<url>borrowed</url>
+		<label>Books to Return</label>
+		<rank>15</rank>
+		<forAdmin>false</forAdmin>
+		<accessLevel>0</accessLevel>
+	</tab>
+	<tab>
+		<url>allusers</url>
+		<label>All Users</label>
+		<rank>20</rank>
+		<forAdmin>true</forAdmin>
+		<accessLevel>0</accessLevel>
+	</tab>
+	<tab>
+		<url>allbooks</url>
+		<label>All Books</label>
+		<rank>25</rank>
+		<forAdmin>true</forAdmin>
+		<accessLevel>0</accessLevel>
+	</tab>
+	<tab>
+		<url>lend</url>
+		<label>Lend Books</label>
+		<rank>30</rank>
+		<forAdmin>true</forAdmin>
+		<accessLevel>0</accessLevel>
+	</tab>
+	
+	<tab>
+		<url>receive</url>
+		<label>Receive Books</label>
+		<rank>35</rank>
+		<forAdmin>true</forAdmin>
+		<accessLevel>0</accessLevel>
+	</tab>
+</tabs>
